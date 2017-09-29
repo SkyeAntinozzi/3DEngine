@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="3DEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3DEngine_jar</output-path>
+    <root id="root">
+      <element id="archive" name="3DEngine.jar">
+        <element id="module-output" name="3DEngine" />
+      </element>
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0-M3.jar" />
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/opentest4j-1.0.0-M1.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: junit-jupiter-api-5.0.0-M3.jar opentest4j-1.0.0-M1.jar
+Main-Class: lumine.engine.Driver
+
